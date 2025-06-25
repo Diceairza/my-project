@@ -1,0 +1,5 @@
+{
+  "name": "ProBookkeeper SaaS - Financial Management",
+  "description": "A comprehensive SaaS application for managing invoicing, quoting, inventory, banking, expenses, and other financial bookkeeping tasks. This build focuses on the core UI structure and invoicing/quoting modules.",
+  "requestFramePermissions": []
+}
